@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/stardust/product-profile.dtd">
 
 <product-profile id="mpd"
-                 name="Kotlin Multiplatform Development"
+                 name="Kotlin Multiplatform"
                  status="eap"
                  start-page="get-started.xml">
     <toc-element toc-title="Get started" id="get-started.xml"/>
